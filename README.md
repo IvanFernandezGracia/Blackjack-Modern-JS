@@ -1,5 +1,5 @@
 # Blackjack-Modern-JS
-Web Page that applies knowledge about: JS ES6, , DOM Manipulation, Underscore library ,Alert window , Array Method, Arrow Function, addEventListener, ternary operator, For in, For Of.
+Game Blackjack Web Page that applies knowledge about: JS ES6, , DOM Manipulation, Underscore library ,Alert window , Array Method, Arrow Function, addEventListener, ternary operator, For in, For Of.
 
 
 <!-- Image -->
