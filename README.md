@@ -8,6 +8,8 @@ Web Page that applies knowledge about: JS ES6, , DOM Manipulation, Underscore li
 
 <!-- Video -->
 ## Video
+https://user-images.githubusercontent.com/48660555/139131447-5559e5cf-0782-41f0-937a-779b1f96a702.mp4
+
 
 <!-- Tech -->
 ## Tech
